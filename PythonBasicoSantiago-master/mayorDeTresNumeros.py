@@ -1,0 +1,5 @@
+num1 = int(input("Escriba el primer numero: "))
+num2 = int(input("Escriba el segundo numero: "))
+num3 = int(input("Escriba el tercer numero: "))
+mayor = max(num1, num2, num3)
+print(mayor)
